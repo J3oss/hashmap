@@ -11,7 +11,7 @@ A closed-addressing hashmap implementation in C with plans to support cuckoo has
 
 ### Dependencies
 - A C compiler (GCC, Clang, or MSVC)
-- [cvector](https://github.com/J3oss/vector)
+- [vector](https://github.com/J3oss/vector)
 
 ## Usage
 
