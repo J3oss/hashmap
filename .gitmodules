@@ -1,0 +1,3 @@
+[submodule "thirdparty/vector"]
+	path = thirdparty/vector
+	url = https://github.com/J3oss/vector
